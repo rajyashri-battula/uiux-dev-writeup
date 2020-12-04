@@ -1,0 +1,26 @@
+/* Feel free to modify anything in this file.*/
+html body {
+	background-color: #c5cbe3;
+}
+
+header {
+	padding-left: 40px;
+	padding-top: 20px;
+}
+
+.content-pane {
+  padding: 40px;
+}
+
+.hover_c:hover {
+    transform: scale(1.5);
+}
+.hover_m:hover {
+    transform: scale(3);
+}
+.hover_t:hover {
+    transform: scale(2.5);
+}
+.border {
+  border: 5px solid black;
+}
